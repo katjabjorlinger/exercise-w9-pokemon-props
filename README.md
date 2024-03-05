@@ -12,10 +12,6 @@ In this week’s team session you will practice react basics and you will work o
 
 Fetch the data from a JSON File and pass down the data from the parent component to its child component. Using the data.json you will create a list of pokemons. We've created the necessary components for you, now it's up to you to pass the props properly to these components. Don’t forget the key attribute to avoid any console errors 😉
 
-### Hint:
-
-If you look at the last question on the Props section, you will have an example on how to approach this exercise 😎
-
 ## Getting Started with the Project
 
 ### Dependency Installation & Startup Development Server:

@@ -1,4 +1,12 @@
-// Destructure pokemon props here :)
-export const Pokemon = () => {
-  return <div>Pokemon</div>;
+
+
+export const Pokemon = ({pokemon}) => {
+
+  return (
+    <ul> {pokemon.map((pokemon, index) => 
+      (<li key={index}>{pokemon.name}</li>
+
+      ))}
+      </ul>);
+      
 };
